@@ -1,0 +1,6 @@
+name: proteomz_app
+channels:
+  - defaults
+  - conda-forge
+prefix: /Users/noelle/miniconda3/envs/proteomz_app
+
