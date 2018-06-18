@@ -15,3 +15,8 @@ Description of Saito laboratory: http://www.whoi.edu/page.do?pid=36296
 Data repository for proteOMZ research expedition: https://www.bco-dmo.org/project/685696
 
 Description of proteOMZ research expedition: https://schmidtocean.org/cruise/investigating-life-without-oxygen-in-the-tropical-pacific/#team
+
+## Companion apps
+Corresponding metaproteomics data: https://github.com/maksaito/proteOMZ_visualization_app_public
+
+An application of datashader to the dataset: https://github.com/naheld/15000lines_datashader
