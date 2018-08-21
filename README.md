@@ -9,6 +9,8 @@ Note that the example data is scrambled and thus should not be used to make scie
 
 This application makes use of Bokeh (https://github.com/bokeh/bokeh) and pandas (https://github.com/pandas-dev/pandas). It is important to use the exact version of Bokeh in particular; see enviornment.yml.
 
+To make full use of the map plots, you will need to input your own Google API key into the visualization_application.py file (location is noted). To acquire a gmaps API key, see https://cloud.google.com/maps-platform/.
+
 ## More Information
 Description of Saito laboratory: http://www.whoi.edu/page.do?pid=36296
 
