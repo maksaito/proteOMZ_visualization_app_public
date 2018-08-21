@@ -44,7 +44,8 @@ MAP_TITLE = 'ProteOMZ EXPEDITION FALKOR 2015'
 MAP_LAT = 7.29
 MAP_LON = -145.73
 MAP_ZOOM = 4
-MAP_API_KEY = 'AIzaSyDKbDUfDV3MhmMbUHVVClWdypnU4UrHVCA'
+# For map to work, uncomment this line and put your own google API key (https://developers.google.com/maps/documentation/javascript/get-api-key)
+# MAP_API_KEY = 
 MAP_TYPE = 'hybrid'
 
 DESELECTED_STATION_COLOR = 'white'
